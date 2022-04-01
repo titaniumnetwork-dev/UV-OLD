@@ -4,7 +4,7 @@
 <h1 align="center">Ultraviolet</h1>
 
 <p align="center">Advanced web proxy used for evading internet censorship or accessing websites in a controlled sandbox.<br><br>
-Ultraviolet works by intercepting HTTP requests with a service worker script that follows the [TompHTTP](https://github.com/tomphttp) specifications</p>
+Ultraviolet works by intercepting HTTP requests with a service worker script that follows the <a href=https://github.com/tomphttp>TompHTTP</a> specifications</p>
 
 ## Quick Deployments
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/titaniumnetwork-dev/Ultraviolet-Node)
